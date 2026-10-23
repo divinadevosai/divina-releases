@@ -1,0 +1,11 @@
+{
+  "app": "Divina",
+  "edition": "obstat",
+  "version": "1.0.0",
+  "file": "Divina-Obstat-Setup-1.0.0-x64.exe",
+  "size": 36131135,
+  "sha256": "1bb4ebd487eadcdb3153931b0a5f86c863ceeb2510e2243aa317314da470e8f6",
+  "silent": "/S",
+  "perUser": true,
+  "selfUpdates": false
+}
